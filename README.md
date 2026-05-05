@@ -4,7 +4,7 @@ Aplikasi ini merupakan bagian dari penelitian skripsi yang bertujuan untuk memba
 
 ## 🚀 Demo Aplikasi
 Aplikasi ini telah dideploy dan dapat diakses secara langsung melalui Hugging Face Spaces:
-👉 **(https://huggingface.co/spaces/Binbil/resep_GGK)]** 
+👉 **(https://huggingface.co/spaces/Binbil/resep_GGK)** 
 
 ## 🛠️ Fitur Utama
 *   **Rekomendasi Menu Personal:** Menghasilkan saran menu berdasarkan input kondisi pasien.
