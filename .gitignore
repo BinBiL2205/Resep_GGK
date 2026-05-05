@@ -1,0 +1,14 @@
+# Mengabaikan folder model yang besar (1GB+)
+indot5_ggk_memorization/
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
+
+# Mengabaikan file lingkungan virtual (jika ada)
+venv/
+.env
+
+# Mengabaikan file sistem
+.DS_Store
+Thumbs.db
