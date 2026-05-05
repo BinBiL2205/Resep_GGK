@@ -23,5 +23,4 @@ Aplikasi ini telah dideploy dan dapat diakses secara langsung melalui Hugging Fa
 ## 💻 Cara Menjalankan Secara Lokal
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git)
-   cd nama-repo
+   git clone (https://github.com/BinBiL2205/Resep_GGK)
